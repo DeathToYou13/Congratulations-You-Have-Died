@@ -1,0 +1,39 @@
+# Copyright © 2025 Charles Morin  
+# All Rights Reserved
+
+This repository contains original literary work belonging to the author, including but not limited to:  
+- Manuscripts  
+- Outlines  
+- Lore documents  
+- Characters  
+- Cosmological systems  
+- Worldbuilding  
+- Any supplemental or derivative materials  
+
+## Permissions
+You are permitted to:
+- View the files in this repository.
+- Download a local copy for **personal, non-commercial reference**.
+
+## Restrictions
+Without explicit written permission from the copyright holder, **you may NOT**:
+- Modify, adapt, transform, or create derivative works.
+- Publish, distribute, or host these works elsewhere.
+- Sell, license, or otherwise commercialize any part of the contents.
+- Use the content in AI datasets, training corpora, or model fine-tuning.
+
+## Reserved Rights
+The author retains **all intellectual property and commercial rights**, including but not limited to:
+- Print publishing  
+- Digital publishing  
+- Audiobook production  
+- Translation rights  
+- Adaptations (film, TV, animation, games)  
+- Merchandising  
+- Licensing  
+- Derivative works  
+
+Nothing in this repository grants or implies any transfer of ownership or rights.
+
+If you wish to request permission for use beyond personal reference,  
+please contact the copyright holder directly.
